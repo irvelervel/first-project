@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.text-red {
+  color: red;
+}
+
+.top-heading {
+  color: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bottom-heading {
+  color: purple;
+  font-family: monospace;
+}
+
+.green {
+  color: green;
+}
